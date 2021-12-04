@@ -103,5 +103,6 @@
     "exclude": [
       "**/*.spec.js"
     ]
-  }
+  },
+  "packageManager": "yarn@3.1.1"
 }
